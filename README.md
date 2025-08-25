@@ -1,4 +1,6 @@
-# Repositories and papers
+# Repositories for papers
+
+The papers can also be found in `clarte_phd.pdf` at Chapters 1 to 7 (except for Chapter 6). They are the following : 
 
 * Theoretical characterization of uncertainty in high-dimensional linear classification : [Link to paper](https://iopscience.iop.org/article/10.1088/2632-2153/acd749/pdf), [Github repo](https://github.com/SPOC-group/high-dimensional-uncertainty)
 
@@ -10,4 +12,11 @@
 
 * Building Conformal Prediction Intervals with Approximate Message Passing : [Link to paper](https://arxiv.org/pdf/2410.16493?), [Github repo](https://github.com/SPOC-group/ConformalAmp.jl)
 
-* Unpublished work on mean-variance estimators : [Github repo](https://github.com/AdamAved/SpecializationSPOC2025)
+# Work on ensembling 
+
+* The folder `ensembling` contains codes and reports regarding ensembling, e.g. in the context of random feature models, see Chapter 6 of Lucas Clarte's manuscript in `clarte_phd.pdf`.
+
+# Work on mean-variance estimators
+
+* Unpublished work on mean-variance estimators : [Github repo](https://github.com/AdamAved/SpecializationSPOC2025). The folder `mean-variance` contains Adam's report on this model. 
+
