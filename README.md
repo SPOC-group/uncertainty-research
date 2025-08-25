@@ -12,11 +12,17 @@ The papers can also be found in `clarte_phd.pdf` at Chapters 1 to 7 (except for 
 
 * Building Conformal Prediction Intervals with Approximate Message Passing : [Link to paper](https://arxiv.org/pdf/2410.16493?), [Github repo](https://github.com/SPOC-group/ConformalAmp.jl)
 
+**Remarks on the code** The codes are written in Python, Julia or Rust. Rust code requires compilation into a Python package, the instructions are provided in [this repository](https://github.com/SPOC-group/double_descent_uncertainty). 
+
 # Work on ensembling 
 
-* The folder `ensembling` contains codes and reports regarding ensembling, e.g. in the context of random feature models, see Chapter 6 of Lucas Clarte's manuscript in `clarte_phd.pdf`.
+* The folder `ensembling` contains : codes and reports regarding ensembling in the context of random feature models, see Chapter 6 of Lucas Clarte's manuscript in `clarte_phd.pdf`. The files `ensembling_files.zip` and `ensembling_output.pdf` contains the notes on this model. 
 
 # Work on mean-variance estimators
 
 * Unpublished work on mean-variance estimators : [Github repo](https://github.com/AdamAved/SpecializationSPOC2025). The folder `mean-variance` contains Adam's report on this model. 
+
+**Todo list**
+
+* Compress and store Latex files for ensembling
 
