@@ -16,13 +16,12 @@ The papers can also be found in `clarte_phd.pdf` at Chapters 1 to 7 (except for 
 
 # Work on ensembling 
 
-* The folder `ensembling` contains : codes and reports regarding ensembling in the context of random feature models, see Chapter 6 of Lucas Clarte's manuscript in `clarte_phd.pdf`. The files `ensembling_files.zip` and `ensembling_output.pdf` contains the notes on this model. 
+* The folder `ensembling` contains : codes and reports regarding ensembling in the context of random feature models, see Chapter 6 of Lucas Clarte's manuscript in `clarte_phd.pdf`. The files `ensembling_files.zip` and `ensembling_output.pdf` contains the notes on this model. The sub-folder `random-features` contains experiments on ensembling random features.
 
 # Work on mean-variance estimators
 
 * Unpublished work on mean-variance estimators : [Github repo](https://github.com/AdamAved/SpecializationSPOC2025). The folder `mean-variance` contains Adam's report on this model. 
 
-**Todo list**
+# Misc 
 
-* Compress and store Latex files for ensembling
-
+* The folder `double-descent` contains numerical experiments to observe a double descent phenomenon in the calibration curve on real datasets.
